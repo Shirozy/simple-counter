@@ -38,6 +38,11 @@ Then, open the `index.html` file in your browser to see the app in action.
 
 ![image](https://github.com/user-attachments/assets/0a063dcb-81ec-4858-af03-64925e812d2c)
 
+## To Do:
+- Light & Dark mode selector
+- Make into Electron App
+- Potentially add animations
+
 ## Tutorial
 
 This project was created as part of a learning journey. I followed a tutorial by **freeCodeCamp.org** on YouTube to help me understand the fundamentals of JavaScript & web development.
