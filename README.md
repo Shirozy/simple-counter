@@ -43,4 +43,4 @@ Then, open the `index.html` file in your browser to see the app in action.
 This project was created as part of a learning journey. I followed a tutorial by **freeCodeCamp.org** on YouTube to help me understand the fundamentals of JavaScript & web development.
 
 You can find the tutorial here:  
-[JavaScript Counter Tutorial by JavaScript Mastery](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1825s)
+[JavaScript Counter Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1825s)
