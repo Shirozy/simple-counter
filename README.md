@@ -1,51 +1,49 @@
 # Counter App
 
-A simple interactive counter app built using HTML, CSS, and JavaScript. The app allows users to increment, decrement, and reset the counter.
+A simple, interactive counter app built with HTML, CSS, and JavaScript. The app allows users to increment, decrement, and reset a counter. It includes animations, a light/dark mode toggle, and the counter value is saved using localStorage to persist across page reloads.
 
 ## Features
 
-- **Increase** the counter value.
-- **Decrease** the counter value.
+- **Increment** the counter.
+- **Decrement** the counter.
 - **Reset** the counter to zero.
-- Counter color changes based on the value:
-  - Positive values show in a light green color.
-  - Negative values show in a red color.
-  - Zero is displayed in a neutral color.
+- **Light/Dark mode toggle** for theme switching.
+- **Smooth animations** for button clicks and counter changes.
+- **LocalStorage** to save the counter value across page reloads.
 
 ## Built With
 
 - **HTML** for the structure.
-- **CSS** for styling (using the Nord color scheme).
-- **JavaScript** for functionality (DOM manipulation and event handling).
+- **CSS** (using the Nord color scheme) for styling.
+- **JavaScript** for functionality, including DOM manipulation, event handling, and localStorage integration.
 
 ## Nord Color Scheme
 
-This project uses the **Nord** color scheme for a clean and modern look. Nord is a popular color palette known for its soothing, cold tones, perfect for web applications.
+This project uses the **Nord** color palette, a soothing, cold-toned color scheme perfect for web apps.
 
-- **#2e3440** - Background, Neutral
-- **#a3be8c** - Positive (Green)
-- **#bf616a** - Negative (Red)
+- **#2e3440** – Background (Neutral)
+- **#a3be8c** – Positive value (Green)
+- **#bf616a** – Negative value (Red)
 
 ## Getting Started
 
-To get started with this project, you can clone the repository to your local machine:
+To run the app locally, follow these steps:
 
-```bash
-git clone https://github.com/Shirozy/simple-counter
-```
+1. Clone the repository:
 
-Then, open the `index.html` file in your browser to see the app in action.
+    ```bash
+    git clone https://github.com/Shirozy/simple-counter
+    ```
 
-![image](https://github.com/user-attachments/assets/0a063dcb-81ec-4858-af03-64925e812d2c)
+2. Open the `index.html` file in your browser to start using the app.
 
-## To Do:
-- Light & Dark mode selector
-- Make into Electron App
-- Potentially add animations
+## Screenshot
 
-## Tutorial
+![Counter App Screenshot](https://github.com/user-attachments/assets/0a063dcb-81ec-4858-af03-64925e812d2c)
 
-This project was created as part of a learning journey. I followed a tutorial by **freeCodeCamp.org** on YouTube to help me understand the fundamentals of JavaScript & web development.
+## Tutorial For Counter
 
-You can find the tutorial here:  
+This project was created as part of a learning journey to better understand JavaScript and web development. The app was originally built following a tutorial by **freeCodeCamp.org**. 
+
+If you'd like to learn more, you can view the tutorial here:  
 [JavaScript Counter Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1825s)
