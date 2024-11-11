@@ -5,12 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Counter</title>
     <link rel="stylesheet" href="styles.css" />
+    <div  id="header">
+      <button class="toggle">Light Mode</button>
+    </div>
   </head>
   <body>
     <main>
         <div class="container">
             <h1>Counter</h1>
-            <span id="value">0</span>
+            <div class="spacer"></div>
+            <h2 id="value" class="ml4">
+              <span class="letters number"">0</span>
+            </h2>
             <div class="button-container">
                 <button class="btn decrease">Decrease</button>
                 <button class="btn reset">Reset</button>
@@ -18,6 +24,8 @@
             </div>
         </div>
     </main>
+    <script src="node_modules/animejs/lib/anime.min.js"></script>
     <script src="app.js"></script>
+    <script src="modeswitch.js"></script>
   </body>
 </html>
