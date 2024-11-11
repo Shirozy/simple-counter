@@ -39,7 +39,7 @@ To run the app locally, follow these steps:
 
 ## Screenshot
 
-![Counter App Screenshot](https://github.com/user-attachments/assets/0a063dcb-81ec-4858-af03-64925e812d2c)
+![counter](https://github.com/user-attachments/assets/1c1c18f6-99aa-4d3b-8dd7-b7c6d0e081b9)
 
 ## Tutorial For Counter
 
